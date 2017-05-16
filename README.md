@@ -7,7 +7,7 @@ No coordinate can hold more than one event.
 Unique id for each event is generated.
 The number of tickets for each event is generated.
 The prices for each ticket for the event is generated. 
-The chepaest ticket for each event is calculates and stored.
+The cheapest ticket for each event is calculates and stored.
 
 
 

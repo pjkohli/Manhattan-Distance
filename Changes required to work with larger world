@@ -1,0 +1,13 @@
+The changes required in the program if working with a much larger world size:
+
+The program can be used for a certain user-selected city, state or small country. 
+The range of coordinaes will have to be changed according to the city.
+Instead of user entering coordinates, he could specity name of the place like street, area or road. 
+The users current location can be detected automatically.
+The nearby events at the certain maximum distance could be dispalyed. 
+User can select range specifying in miles like nearby 1 mile, 2 or more.
+Distances can be calculated in metres, kilometres or miles.
+More than 5 nearest events can be displayed.
+User can sort by selecting options between - nearest events, cheapest nearest events or cheapest events.
+User can also select price range of the tickets for the events.
+Dates and timmings for the events should be stored and user should be allowed to check events for different dates and times.

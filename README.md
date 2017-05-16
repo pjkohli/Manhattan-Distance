@@ -1,5 +1,5 @@
 # Manhattan-Distance
-To calcualte nearest events with manhatttan-Distance.
+To calcualte nearest events with manhatttan-Distance in C++.
 
 The program generates seed data. 
 The events in range from -10 to 10 for X and Y axis are generated.

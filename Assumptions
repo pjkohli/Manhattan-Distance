@@ -1,0 +1,6 @@
+Maximum number of events are assumed to be 50 by using #define, preprocessing directive . This value can be changed.
+Maximum number of tickets are assumed to be 50 by using #define. This value can be changed.
+Maximum price of each ticket is assumed to be 100 by using #define. This value can be changed.
+Each event has many tickets with varied prices.
+To generate closest five events, all closer events are generated with the cheapest tickets. If two or more events are at same distance, then the events among them which have cheaper tickets are printed.
+Manhattan distance calcualted is absolute. No negative distance is generated.

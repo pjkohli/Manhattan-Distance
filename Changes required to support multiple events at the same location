@@ -1,0 +1,6 @@
+If multiple events are supported at the same location, code will require following changes:
+
+
+The arrays to store information of events will be two dimensional instead of one. Price array will be three dimensional.
+Maximum number of events allowed at one coordinate needs to be stated.
+To generate closest events, all events at the same coordiante are printed. If events at the same coordinates are to be considered, then one with cheapest price can be printed. It works similar to one considering events at same distance.
